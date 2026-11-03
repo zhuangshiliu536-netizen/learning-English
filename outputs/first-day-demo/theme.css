@@ -1,0 +1,62 @@
+/* Shared floating controls; lesson content remains on opaque readable surfaces. */
+:root{--ink:#283647;--green:#6554c0;--pale:#eee8fa;--paper:#fffefa;--line:#e5e0ed}
+.primary{background:#6554c0;box-shadow:0 .3rem .8rem #6554c024;border-color:#7464ca}
+.primary:hover{background:#5745b0}
+.secondary,.quiet,.icon-button,.parent-button{background:rgba(255,255,255,.9);border-color:#e6e0ed;box-shadow:0 .18rem .6rem #594a7410}
+.secondary:hover,.quiet:hover{background:#f3effc}
+.app-header{background:rgba(255,255,255,.88)}
+.brand-mark{background:#8a7acb}
+.nav-item.active{background:#e2f2eb;color:#325b50}
+.milo-avatar{background:none!important;border:0!important}
+.milo-avatar img{width:100%;height:100%;object-fit:contain;display:block;pointer-events:none}
+.lesson-hearts{display:flex;align-items:center;gap:.4rem;border:1px solid #f3ddd8;border-radius:1.15rem;background:#fff5ef;padding:.55rem 1rem;font-size:.85rem;font-weight:700;color:#985a55;box-shadow:0 .15rem .5rem #ad6d6210}
+.lesson-hearts .icon,.happiness-icon .icon,.heart-reward .icon{filter:invert(64%) sepia(25%) saturate(1124%) hue-rotate(316deg) brightness(101%) contrast(101%)}
+.lesson-hearts .icon{width:1.3rem;height:1.3rem}
+.app-shell:not(.world-shell)>.heart-reward{top:5.7rem}
+.unit-activity-list{display:grid;grid-template-columns:1fr 1fr;gap:.65rem}
+.unit-activity-list button{font-size:.85rem;justify-content:flex-start;padding:.8rem}
+.unit-mini-progress{display:flex;gap:.3rem;justify-content:center}
+.unit-mini-progress i{display:block;width:.3rem;height:.3rem;border-radius:50%;background:#c8bfd6}
+.unit-mini-progress i.filled{background:#678b7b}
+.unit-recap-tabs{display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:1.3rem}
+.unit-recap-tabs button{font-size:.85rem;min-height:2.7rem;padding:.6rem 1rem}
+.album-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem}
+.world-map{padding-bottom:2.5rem}
+.map-companion>.milo-art{width:160%;height:29rem;max-width:none;max-height:none;flex-shrink:0}
+.world-shell .happiness-label{color:#5e526c}
+.happiness-track{display:block}
+.world-shell .happiness-value{color:#65536d}
+.world-shell .map-companion-copy p,.world-shell .map-heading p,.world-shell .map-position{color:#685b7c}
+.world-shell .unit-label small{color:#71617e}
+.world-shell .unit-number,.world-shell .unit-node.current .unit-number{color:#685a7b}
+.world-shell .milo-bubble small,.world-shell .map-launch-label small{color:#6c7182}
+.world-shell .bubble-eyebrow{color:#75608e}
+.world-shell .world-nav-item{color:#685f78!important}
+.world-shell .world-nav-item.active{color:#345d55!important}
+.world-shell .world-brand small{color:#636e68}
+.world-shell .unit-node.locked{opacity:1}
+.world-shell .unit-state{color:#6d5c7c}
+.world-shell .unit-node.locked .unit-state{color:#70627b;background:#f7f2fc;opacity:1}
+.world-shell .world-topbar .happiness-widget{cursor:pointer}
+.world-shell .world-topbar .happiness-widget:hover{background:#fff}
+.world-shell .map-scroll{touch-action:pan-x pan-y}
+.world-shell .map-scroll.map-dragging{scroll-behavior:auto;scroll-snap-type:none}
+.world-tools>button:active,.milo-bubble:active,.world-nav-item:active{box-shadow:0 .12rem .45rem #594a7418;filter:brightness(.98)}
+.world-shell .home-companion{width:43%;max-width:32rem}
+@media(max-width:700px){
+  .brand small{display:none}.brand{gap:.4rem;font-size:1.05rem}
+  .lesson-hearts{padding:.45rem .65rem;gap:.3rem;font-size:.75rem}.lesson-hearts .icon{width:1rem;height:1rem}
+  .app-header{padding:0 .85rem}
+  .unit-activity-list{grid-template-columns:1fr}
+  .album-grid{grid-template-columns:1fr}
+  .world-map{padding-bottom:1.4rem}
+  .map-companion>.milo-art{width:7.3rem;height:8.2rem;max-width:none}
+  .world-shell .home-companion{width:88%;max-width:none}
+  .world-shell .map-launch{bottom:6.15rem}
+}
+@media(prefers-reduced-transparency:reduce){
+  .world-tools>button,.happiness-widget,.world-nav,.milo-bubble,.map-launch-label{background:#fffefa;backdrop-filter:none;-webkit-backdrop-filter:none}
+}
+@supports not (backdrop-filter:blur(1px)){
+  .world-tools>button,.happiness-widget,.world-nav,.milo-bubble,.map-launch-label{background:#fffefa}
+}

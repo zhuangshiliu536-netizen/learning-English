@@ -1,0 +1,21 @@
+{
+  "chineseLines": 33,
+  "complete": true,
+  "allSourceTextsMatch": true,
+  "allHashesMatch": true,
+  "allFullyDecodedNonSilent": true,
+  "durationRangeSeconds": [
+    3.456,
+    8.904
+  ],
+  "totalDurationSeconds": 175.656,
+  "totalBytes": 1053936,
+  "peakRange": [
+    16999,
+    31914
+  ],
+  "rmsRange": [
+    3012.9,
+    3873.6
+  ]
+}

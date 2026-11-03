@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "scope": "Comparison sample only, not a complete voice pack",
+  "audio": [
+    {
+      "key": "meet",
+      "text": "你好，我是米洛。点一下我，听听我的声音。",
+      "lang": "zh-CN",
+      "voice": "zh-CN-YunxiNeural",
+      "rate": "-8%",
+      "pitch": "+0Hz",
+      "format": "audio/mpeg",
+      "source": "Microsoft Edge online neural TTS via edge-tts",
+      "path": "assets/audio-neural/yunxi/meet.mp3",
+      "duration": 5.256,
+      "bytes": 31536,
+      "sha256": "be17ade972903007ef0a6f1176993356644a20fa96fb14d3aeceb65235fad828",
+      "decodedSampleRate": 24000,
+      "channels": 1,
+      "peak": 16401,
+      "rms": 1578.7
+    }
+  ]
+}

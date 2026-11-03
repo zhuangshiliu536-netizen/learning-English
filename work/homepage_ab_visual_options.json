@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "status": "awaiting_ab_visual_selection",
+  "generated_with": "built-in image_gen",
+  "comparison": "同一伙伴、色板、主题和导航，对比任务优先与伙伴优先的首页布局",
+  "options_in_display_order": [
+    {
+      "displayed_option": 1,
+      "scheme": "A",
+      "image_path": "/Users/zyb/Documents/Codex/2026-11-02/yin/outputs/首页视觉对比/A-伙伴与今日任务.png",
+      "width": 1501,
+      "height": 1048,
+      "selected": false
+    },
+    {
+      "displayed_option": 2,
+      "scheme": "B",
+      "image_path": "/Users/zyb/Documents/Codex/2026-11-02/yin/outputs/首页视觉对比/B-伙伴大厅.png",
+      "width": 1500,
+      "height": 1049,
+      "selected": false
+    }
+  ]
+}

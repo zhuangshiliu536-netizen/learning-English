@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoNeural)",
+    "ShortName": "zh-CN-XiaoxiaoNeural",
+    "Gender": "Female",
+    "Locale": "zh-CN",
+    "LocaleName": "Chinese (Mandarin, Simplified)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "News",
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Warm"
+      ]
+    }
+  },
+  {
+    "Name": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunxiNeural)",
+    "ShortName": "zh-CN-YunxiNeural",
+    "Gender": "Male",
+    "Locale": "zh-CN",
+    "LocaleName": "Chinese (Mandarin, Simplified)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Yunxi Online (Natural) - Chinese (Mainland)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Lively",
+        "Sunshine"
+      ]
+    }
+  }
+]

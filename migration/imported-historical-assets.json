@@ -1,0 +1,26 @@
+{
+  "reason": "Preserve generated visual candidates previously referenced outside the project; none selected as current UI",
+  "assets": [
+    {
+      "option": 1,
+      "original_source": "/Users/zyb/.codex/generated_images/01a19b09-a833-70b1-bbc5-29dc9ababfb0/exec-2f536377-b186-4246-bc4a-4d2d480c4c55.png",
+      "repository_path": "outputs/historical-visual-options/option-1.png",
+      "sha256": "3f086897deb30f4c27c32eb1c9eae222d1d83e5fe0e2f4b0683b8b4c189ad7a6",
+      "selected": false
+    },
+    {
+      "option": 2,
+      "original_source": "/Users/zyb/.codex/generated_images/01a19b09-a833-70b1-bbc5-29dc9ababfb0/exec-da7360de-2e7a-42f6-a9c2-55d2b89ae3fd.png",
+      "repository_path": "outputs/historical-visual-options/option-2.png",
+      "sha256": "1d04a29dc9edaedbbb93559fb7c257ee09557faea5dd2b8e1c6c96c772700ed5",
+      "selected": false
+    },
+    {
+      "option": 3,
+      "original_source": "/Users/zyb/.codex/generated_images/01a19b09-a833-70b1-bbc5-29dc9ababfb0/exec-501fd352-e81b-4623-b73e-023db9ec0cc7.png",
+      "repository_path": "outputs/historical-visual-options/option-3.png",
+      "sha256": "7da81fd9ca19197510bd9d9675d7196a432dc9f69824faccb11db9c842cc0e74",
+      "selected": false
+    }
+  ]
+}

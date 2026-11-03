@@ -1,0 +1,28 @@
+# Local Python installations and caches; source and original audio stay tracked.
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local machine/editor state.
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+
+# Credentials must remain local. Sanitized examples may be committed.
+.env
+.env.*
+!.env.example
+!.env.sample
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_ed25519
+.credentials/
+credentials.json
+service-account*.json
+
+# Do not ignore work/, assets, screenshots, original AIFF files, or release ZIPs.

@@ -1,0 +1,18 @@
+{
+  "scope": "git ls-files plus ZIP members; excluded environments not uploaded",
+  "tracked_files": 356,
+  "archive_members": 224,
+  "rules": [
+    "private-key",
+    "github-token",
+    "openai-style-key",
+    "aws-access-key",
+    "google-api-key",
+    "slack-token",
+    "credential-url",
+    "literal-secret-assignment"
+  ],
+  "findings": [],
+  "result": "passed",
+  "limitation": "Pattern scan; does not prove the absence of every possible credential."
+}

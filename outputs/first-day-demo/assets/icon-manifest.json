@@ -1,0 +1,257 @@
+{
+  "library": "Tabler Icons",
+  "license": "MIT",
+  "source": "https://github.com/tabler/tabler-icons",
+  "retrieved_on": "2026-11-02",
+  "icons": [
+    {
+      "name": "apple",
+      "path": "icons/apple.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/apple.svg",
+      "sha256": "50db86a52b9566ed3ce80a0a29382b0d976f8ed3dc56261f1a898cbd7ca2dc08",
+      "bytes": 778
+    },
+    {
+      "name": "banana",
+      "path": "icons/banana.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/banana.svg",
+      "sha256": "081862ef99cf7c16073183eab8def762476c49dd052b0e0144fc13e2e5d0e632",
+      "bytes": 554
+    },
+    {
+      "name": "milk",
+      "path": "icons/milk.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/milk.svg",
+      "sha256": "90c930e9d30f7241fd07820f5b02aed94231bc48dcb6f376310fb11e04176a5b",
+      "bytes": 609
+    },
+    {
+      "name": "bread",
+      "path": "icons/bread.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/bread.svg",
+      "sha256": "c6891eb8ec00351fb42a16702716e207385b7a3c536d029b5d8f650eb5a8e2f0",
+      "bytes": 459
+    },
+    {
+      "name": "basket",
+      "path": "icons/basket.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/basket.svg",
+      "sha256": "cc823724133cedd6a891894c72d93acca0e729b8c8528f19a9f09e53f40f584d",
+      "bytes": 618
+    },
+    {
+      "name": "robot",
+      "path": "icons/robot.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/robot.svg",
+      "sha256": "c42ca8773a82b2bbcfc041fbfef2e207753c9f4e6ab2e5521c173c0497092458",
+      "bytes": 632
+    },
+    {
+      "name": "book",
+      "path": "icons/book.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/book.svg",
+      "sha256": "1f55b129a72746a98e1aaffc55ae7b43d004db036968afb022b3f9fbd7da87c9",
+      "bytes": 522
+    },
+    {
+      "name": "book-2",
+      "path": "icons/book-2.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/book-2.svg",
+      "sha256": "b033f93e20d3c27a5123a603de584cdc54b50d32f53a16172726efcf05624505",
+      "bytes": 478
+    },
+    {
+      "name": "map",
+      "path": "icons/map.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/map.svg",
+      "sha256": "d37d1048d3608b037ced3617196a2f28f8dbf61db0d5ffc510fcb85b5fdd71ba",
+      "bytes": 438
+    },
+    {
+      "name": "volume",
+      "path": "icons/volume.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/volume.svg",
+      "sha256": "1c2d4ffadf15616b7d27fcc66d28df9d5a43f34537ffc4da35c9d4c84c406450",
+      "bytes": 532
+    },
+    {
+      "name": "volume-off",
+      "path": "icons/volume-off.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/volume-off.svg",
+      "sha256": "2cb9e81af317a9884c5fdc059f55dba2ec67a55b471a5448fe5a381eefc02156",
+      "bytes": 674
+    },
+    {
+      "name": "player-play",
+      "path": "icons/player-play.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/player-play.svg",
+      "sha256": "e2bff69284f1dc77224c47c03798017206a29d4ef665549db724b0a4534d8e5c",
+      "bytes": 398
+    },
+    {
+      "name": "player-pause",
+      "path": "icons/player-pause.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/player-pause.svg",
+      "sha256": "d9be9ab25e52cdcae17def18d41edc0855fa44caa8492cde2b5b8cd085e8c5a6",
+      "bytes": 528
+    },
+    {
+      "name": "arrow-left",
+      "path": "icons/arrow-left.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/arrow-left.svg",
+      "sha256": "12af90f1bb49b7ae62792ecf38d2fa8b39daa4753e39ebc3520d07482a90704f",
+      "bytes": 433
+    },
+    {
+      "name": "arrow-right",
+      "path": "icons/arrow-right.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/arrow-right.svg",
+      "sha256": "7e602a26d53e78ceb788f38cb89ec1d1091130c56d7829ca294b7ed0642277c6",
+      "bytes": 428
+    },
+    {
+      "name": "check",
+      "path": "icons/check.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/check.svg",
+      "sha256": "e206067a7d570997b5b3a7d30ab287c0b15a492787649a8b96dff8fad2862fbe",
+      "bytes": 389
+    },
+    {
+      "name": "home",
+      "path": "icons/home.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/home.svg",
+      "sha256": "069600f461f3e967685765723a851af7b35f24b715e03d41a2928152cf75644c",
+      "bytes": 511
+    },
+    {
+      "name": "settings",
+      "path": "icons/settings.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/settings.svg",
+      "sha256": "ef9cf42d822c00b4fad5bc5eeceddd4e1ec3774bb7ddd09891d0fba274bc3e95",
+      "bytes": 942
+    },
+    {
+      "name": "microphone",
+      "path": "icons/microphone.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/microphone.svg",
+      "sha256": "21aacc5c6cc7b28b03a179053a7aaf69eb6d23d333ab4b40504f2873fb07a5f8",
+      "bytes": 536
+    },
+    {
+      "name": "help-circle",
+      "path": "icons/help-circle.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/help-circle.svg",
+      "sha256": "c2ceac099c2cc1387661b0ddfb5be7fc8bc062d4b2f18c69ab9f07c7a72c5de9",
+      "bytes": 503
+    },
+    {
+      "name": "repeat",
+      "path": "icons/repeat.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/repeat.svg",
+      "sha256": "c018576502a5f4c2e3738d5537ef514ceb88ace4ae3b3b85ce98fe7eebcbc711",
+      "bytes": 457
+    },
+    {
+      "name": "x",
+      "path": "icons/x.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/x.svg",
+      "sha256": "9350785360414c39450c3505f17d1745e55a7534edace8548e30cf49e3727d43",
+      "bytes": 406
+    },
+    {
+      "name": "users",
+      "path": "icons/users.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/users.svg",
+      "sha256": "a9892bcba1adad20184c0b50641b1a96a56fb9ef5135ff60462c664874021cc3",
+      "bytes": 536
+    },
+    {
+      "name": "headphones",
+      "path": "icons/headphones.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/headphones.svg",
+      "sha256": "3ad34acfba12316c3fd9e7930b344522e135d18089d86d798ad55198920b3f22",
+      "bytes": 569
+    },
+    {
+      "name": "refresh",
+      "path": "icons/refresh.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/refresh.svg",
+      "sha256": "9dd8ab8cac268489501cbb0a106d93cc3f367add493d20c47ec1e1d9804c760a",
+      "bytes": 453
+    },
+    {
+      "name": "star",
+      "path": "icons/star.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/star.svg",
+      "sha256": "c0b4afc60d311585f7c79c2ffd68d58eb5c1e3a3cd6d626cdc7792c5d3bbb49b",
+      "bytes": 481
+    },
+    {
+      "name": "clipboard-check",
+      "path": "icons/clipboard-check.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/clipboard-check.svg",
+      "sha256": "c723c87b4402db5d3dd8335466d4d0f838a7d95a0fd8e1a111513bacfa9afb34",
+      "bytes": 594
+    },
+    {
+      "name": "chevron-right",
+      "path": "icons/chevron-right.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/chevron-right.svg",
+      "sha256": "83733bb6e03e1d20fd2674d06a493642c8ea6eef76c44ebb2239b9ef17dedff7",
+      "bytes": 401
+    },
+    {
+      "name": "logout",
+      "path": "icons/logout.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/logout.svg",
+      "sha256": "fa2752dd6456bfb77486e42908c262ae1e05eb1e52693ff6c453ee39ddeee003",
+      "bytes": 508
+    },
+    {
+      "name": "photo",
+      "path": "icons/photo.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/photo.svg",
+      "sha256": "67d9b3ec02867e98ad17739380919a2d82287d15d3463161f450e17047ed319b",
+      "bytes": 605
+    },
+    {
+      "name": "download",
+      "path": "icons/download.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/download.svg",
+      "sha256": "c13f6f9cf87deee99e331622169efd59cd764b376994540347e50d6bb5e2e0ef",
+      "bytes": 459
+    },
+    {
+      "name": "clock",
+      "path": "icons/clock.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/clock.svg",
+      "sha256": "971b0b2d3b5b17ae240cd3aac1a09710ab680d8c41900f1a37a0e430994d7fda",
+      "bytes": 445
+    },
+    {
+      "name": "route",
+      "path": "icons/route.svg",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/route.svg",
+      "sha256": "383e4d1290ea525748767973343b3f20ea979b3638f9b3896b417e032c6ebe6f",
+      "bytes": 500
+    },
+    {
+      "name": "heart",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/heart.svg",
+      "path": "icons/heart.svg",
+      "sha256": "332be1c5c3a67df766c69da053a0eb29a11aa74a262f4422b82bceaaf098b1e8",
+      "license": "MIT",
+      "bytes": 442,
+      "retrieved_on": "2026-11-03"
+    },
+    {
+      "name": "lock",
+      "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/lock.svg",
+      "path": "icons/lock.svg",
+      "sha256": "407856048124fdd63239f75a3640ca8f20a9acbc1f49cac9de0bcdb1cb42ec5f",
+      "license": "MIT",
+      "bytes": 527,
+      "retrieved_on": "2026-11-03"
+    }
+  ]
+}

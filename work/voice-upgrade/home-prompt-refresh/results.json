@@ -1,0 +1,74 @@
+{
+  "neural": [
+    {
+      "key": "home",
+      "text": "今天，我们一起准备野餐。点一下我的对话气泡，就能出发。",
+      "lang": "zh-CN",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "pitch": "+0Hz",
+      "format": "audio/mpeg",
+      "source": "Microsoft Edge online neural TTS via edge-tts",
+      "path": "assets/audio-neural/home.mp3",
+      "duration": 6.768,
+      "bytes": 40608,
+      "sha256": "11ec7b4236ee6ba0231a6465b9605c845b439c4ea7c30f49ab4e4610ce71395d",
+      "decodedSampleRate": 24000,
+      "channels": 1,
+      "peak": 19321,
+      "rms": 3308.5
+    },
+    {
+      "key": "breakfast_home",
+      "text": "新的早餐冒险开始啦。点一下对话气泡，我们一起摆好早餐桌吧。",
+      "lang": "zh-CN",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "pitch": "+0Hz",
+      "format": "audio/mpeg",
+      "source": "Microsoft Edge online neural TTS via edge-tts",
+      "path": "assets/audio-neural/breakfast_home.mp3",
+      "duration": 7.248,
+      "bytes": 43488,
+      "sha256": "b9ff4b97e90cd1c7ded3213889dcb52d5f2d00c8b799aa88b3292d6313ed379f",
+      "decodedSampleRate": 24000,
+      "channels": 1,
+      "peak": 17511,
+      "rms": 3141.2
+    }
+  ],
+  "legacy": [
+    {
+      "key": "home",
+      "text": "今天，我们一起准备野餐。点一下我的对话气泡，就能出发。",
+      "lang": "zh-CN",
+      "voice": "Tingting",
+      "rate": 180,
+      "path": "assets/audio/home.wav",
+      "pathBase": "app-root",
+      "duration_seconds": 5.642,
+      "bytes": 252930,
+      "sha256": "4ac2cfbb00b5d316b5579f86e60212122a657100776e451ff791fa58b9bada89",
+      "decodedSampleRate": 22050,
+      "channels": 1,
+      "peak": 23276,
+      "rms": 4058.1
+    },
+    {
+      "key": "breakfast_home",
+      "text": "新的早餐冒险开始啦。点一下对话气泡，我们一起摆好早餐桌吧。",
+      "lang": "zh-CN",
+      "voice": "Tingting",
+      "rate": 180,
+      "path": "assets/audio/breakfast_home.wav",
+      "pathBase": "app-root",
+      "duration_seconds": 6.084,
+      "bytes": 272386,
+      "sha256": "953a3f5fb69dea2ee46f7b2e0207d2aa7da4790d20ddc66a017f6548b61636d7",
+      "decodedSampleRate": 22050,
+      "channels": 1,
+      "peak": 24753,
+      "rms": 4034.0
+    }
+  ]
+}

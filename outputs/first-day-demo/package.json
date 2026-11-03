@@ -1,0 +1,7 @@
+{
+  "name": "milo-first-day-flow",
+  "version": "0.4.8",
+  "private": true,
+  "type": "module",
+  "description": "Local interactive first-day English-learning flow prototype"
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "viewport": [
+      2400,
+      1600
+    ],
+    "rootFont": 29.736,
+    "stage": [
+      2230.2,
+      1486.8
+    ],
+    "h1": 74.3,
+    "buttonMinHeight": 100.4
+  },
+  {
+    "viewport": [
+      1200,
+      800
+    ],
+    "rootFont": 14.642,
+    "stage": [
+      1098.1,
+      732.1
+    ],
+    "h1": 36.6,
+    "buttonMinHeight": 49.4
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "rootFont": 16.528,
+    "stage": [
+      1239.6,
+      826.4
+    ],
+    "h1": 41.3,
+    "buttonMinHeight": 55.8
+  },
+  {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "rootFont": 19.925,
+    "stage": [
+      1494.3,
+      996.2
+    ],
+    "h1": 49.8,
+    "buttonMinHeight": 67.2
+  },
+  {
+    "viewport": [
+      1100,
+      600
+    ],
+    "rootFont": 14,
+    "stage": [
+      1050,
+      534
+    ],
+    "h1": 35.0,
+    "buttonMinHeight": 47.2
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-03",
+  "generationMode": "built-in image_gen.imagegen",
+  "purpose": "Original Milo assets for Buddy.ai-referenced layout redesign; these are individual assets, not screenshots or copied Buddy.ai artwork.",
+  "assets": [
+    {
+      "path": "milo-companion.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "source": "/Users/zyb/.codex/generated_images/01a19f5b-1063-7381-8b8d-8e837d877e9f/exec-84bf316a-3e02-45ae-86dd-73ec5e5d8917.png",
+      "transparent_background": true,
+      "prompt": "Use case: stylized-concept. Asset type: original 3D companion character cutout for a children's English-learning tablet app named Milo. Create a single full-body friendly toy robot, centered, almost front view with only a slight three-quarter angle, gently waving one hand. Soft rounded mint-teal and creamy ivory body, a small coral antenna and softly rounded coral ear pods, dark navy rounded face display with joyful eyes and a tiny friendly smile, short chubby arms and feet. Premium soft silicone toy material, restrained subtle specular highlights and soft studio lighting, simple readable silhouette for ages 3–8. This is an original character, do not copy Buddy.ai's blue robot, no cap, no sunglasses, no lettering or logos. Keep the whole body and raised hand fully inside frame with roughly 8% breathing room. Portrait-ish character centered inside a square 1024 by 1024 image, occupying most of the image height. Genuinely transparent background with clean alpha, no room, no props, no ground plane, no text, no watermarks.",
+      "inspection": "Full body and raised hand visible; original ivory/mint robot with coral accents and joyful navy face. Transparent canvas confirmed.",
+      "bytes": 887896,
+      "sha256": "ebcccfb7aebdcf8a4c2bf90a3660b2b595db32dc9b302925833c29a1cc290ee5"
+    },
+    {
+      "path": "home-room.png",
+      "width": 1536,
+      "height": 1024,
+      "alpha": false,
+      "source": "/Users/zyb/.codex/generated_images/01a19f5b-1063-7381-8b8d-8e837d877e9f/exec-6253fb64-57a2-40b9-9e78-3cef33a6163e.png",
+      "transparent_background": false,
+      "prompt": "Use case: stylized-concept. Asset type: quiet 3D interior backdrop for a children's English-learning app home screen. Wide landscape composition, approximately 3:2, intended at 1536 by 1024. Create a very minimal, airy, warm creamy ivory futuristic playroom, soft rounded architectural forms, with one large circular window centered on the back wall and a clear empty central floor area for a separate robot character to be composited later. Through the circular window show only an extremely simple pale blue sky and a soft distant mint shape, no detailed landscape. At the far left edge a very low simple pale-lavender reading bench with just two closed books, at the far right edge one small simple matte cream pot with a few broad mint green leaves. Keep all these props close to outer edges and low contrast. Rounded room, seamless smooth floor, soft ambient light, premium clay and soft silicone 3D style. Palette warm off-white, pale mist lavender, light mint, tiny muted coral accent. The center 60% must be visually quiet and mostly empty. No characters, no people, no animals, no toys scattered, no extra furniture, no intricate texture, no wall patterns, no UI, no text, no logos, no letters. This is an app backdrop, not a busy picture-book scene. Soft uniform lighting and clean child-friendly surfaces, shallow simple shadows, restrained visual detail.",
+      "inspection": "3:2 minimal warm room; centered circular window, quiet empty foreground, small left bench/books and right plant, no character/UI/text.",
+      "bytes": 1525762,
+      "sha256": "4c008d2096f01e5e255c437243edd96d37b6a2958645d4699d123d9ca80bd1a2"
+    },
+    {
+      "path": "rocket-map.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "source": "/Users/zyb/.codex/generated_images/01a19f5b-1063-7381-8b8d-8e837d877e9f/exec-4c68917a-ec76-4760-8d28-477b85f36b87.png",
+      "transparent_background": true,
+      "prompt": "Use case: stylized-concept. Asset type: single rocket cutout used as a floating learning-map entry icon in a children's English-learning app. Create one adorable simple compact 3D toy rocket, pointing diagonally up and right at roughly 35 degrees from vertical. Rounded creamy ivory body, soft mint-teal side fins and nose accent, one pale coral circular porthole rim with dark navy inner glass, a very small lavender ring accent. Same premium matte soft-silicone toy material as a friendly mint/cream robot, soft studio lighting and gentle highlights. Strong readable silhouette at small size. Whole rocket fully visible, centered with around 12% empty breathing room. No character, no faces, no elaborate flame trail, no surrounding stars, no badges, no UI circle, no play triangle, no text, no logos, no letters, no watermark. Genuinely transparent background and clean alpha. Square image approximately 1024 by 1024, a single isolated object.",
+      "inspection": "Single whole diagonal toy rocket; mint/ivory/coral/lavender palette, small warm exhaust, no badge/text/UI. Transparent canvas confirmed.",
+      "bytes": 660578,
+      "sha256": "be740374746a54a4d757383a2f425c11502a940c1080d094728239861c2ee759"
+    }
+  ]
+}
